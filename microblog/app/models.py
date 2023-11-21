@@ -7,6 +7,7 @@ from app import login
 
 class User(UserMixin, db.Model):
     id = db.Column(db.String(120), primary_key=True)
+    username = db.Column(db.String(120))
     plan = db.Column(db.String(120), index=True, unique=True)
     password_hash = db.Column(db.String(128))
 
@@ -35,8 +36,8 @@ class Song(db.Model):
  
     id = db.Column(db.String, primary_key=True)
     name = db.Column(db.String)
-    artist = db.relationship("Artist", backref=db.backref(
-        "albums", order_by=id), lazy=True)
+    artists = db.Column(db.String)
+    #artist = db.relationship("Artist", backref=db.backref("albums", order_by=id), lazy=True)
 
 
 @login.user_loader
