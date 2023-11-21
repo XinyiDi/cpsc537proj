@@ -5,8 +5,12 @@ from flask_login import current_user, login_user
 from app.models import User
 from flask_login import logout_user
 from flask_login import login_required
-from flask import request
+from flask import request,flash, render_template, redirect
 from werkzeug.urls import url_parse
+from db_setup import init_db, db_session
+from models import User, Artist, Song
+from tables import Results
+
 
 
 
@@ -30,7 +34,7 @@ def index():
  
     return render_template('index.html', form=search, posts = posts)
     #return render_template("index.html", title='Home Page', posts=posts)
-    
+
 @app.route('/results')
 def search_results(search):
     results = []
@@ -38,17 +42,12 @@ def search_results(search):
  
     if search_string:
         if search.data['select'] == 'Artist':
-            qry = db_session.query(Album, Artist).filter(
-                Artist.id==Album.artist_id).filter(
-                    Artist.name.contains(search_string))
+            qry = db_session.query(Artist).filter(
+                Artist.name.contains(search_string))
             results = [item[0] for item in qry.all()]
-        elif search.data['select'] == 'Album':
-            qry = db_session.query(Album).filter(
-                Album.title.contains(search_string))
-            results = qry.all()
-        elif search.data['select'] == 'Publisher':
-            qry = db_session.query(Album).filter(
-                Album.publisher.contains(search_string))
+        elif search.data['select'] == 'Song':
+            qry = db_session.query(Song).filter(
+                Song.track_name.contains(search_string))
             results = qry.all()
         else:
             qry = db_session.query(Album)
