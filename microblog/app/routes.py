@@ -8,10 +8,9 @@ from flask_login import login_required
 from flask import request,flash, render_template, redirect
 from werkzeug.urls import url_parse
 #from db_setup import init_db, db_session
-from app.models import User, Artist, Song
-from tables import Results
+from app.models import User, Artist, Song, Match
+#from tables import Results
 from sqlalchemy import func
-
 
 
 
@@ -19,8 +18,12 @@ from sqlalchemy import func
 @app.route('/index', methods=['GET','POST'])
 @login_required
 def index():
-
-    songs = Song.query.all()
+    if current_user.id:
+        match = Match.query.filter_by(user_id = current_user.id)[0]
+        song_ids = [match.song_1,match.song_2,match.song_3,match.song_4,match.song_5]
+        songs = Song.query.filter(Song.id.in_(song_ids)).all()
+    else:
+        songs = Song.query.all()[:5]
     global search #
     search = MusicSearchForm(request.form)
     if request.method == 'POST':
@@ -38,12 +41,12 @@ def search_results():
     if search_string:
         search_string = search_string.lower()
         if search.data['select'] == 'Artist':
-            qry = Artist.query.filter_by(name = search_string)#(func.lower(Artist.name).contains(search_string) )
+            qry = Artist.query.filter(func.lower(Artist.name).contains(search_string))#(func.lower(Artist.name).contains(search_string) )
             results = qry.all()
             if not results:
                 flash('No results found!')
                 return redirect(url_for('index'))
-            return render_template('results_artist.html', songs = results)
+            return render_template('results_artist.html', artists = results)
         else:
             qry = Song.query.filter(func.lower(Song.name).contains(search_string))
             results = qry.all()
