@@ -1,0 +1,521 @@
+,Age,Gender,usage_period,plan,listening_scenario,fav_music_genre,music_Influencial_mood,user_id,password
+0,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Sadness or melancholy,000,000000
+1,12-20,Male,More than 2 years,Free (ad-supported),Workout session,Rap,Social gatherings or parties,001,000000
+2,35-60,Others,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling",Pop,Relaxation and stress relief,002,000000
+3,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, Workout session, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",003,000000
+4,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,004,000000
+5,20-35,Male,More than 2 years,Free (ad-supported),Workout session,Pop,Uplifting and motivational,005,000000
+6,20-35,Female,1 year to 2 years,Free (ad-supported),Office hours,Melody,Relaxation and stress relief,006,000000
+7,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Social gatherings or parties,007,000000
+8,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",008,000000
+9,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",Melody,Relaxation and stress relief,009,000000
+10,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",010,000000
+11,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",011,000000
+12,20-35,Female,1 year to 2 years,Free (ad-supported),Office hours,Melody,Relaxation and stress relief,012,000000
+13,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",013,000000
+14,20-35,Female,More than 2 years,Free (ad-supported),Office hours,Pop,Relaxation and stress relief,014,000000
+15,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",015,000000
+16,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,016,000000
+17,20-35,Female,Less than 6 months,Free (ad-supported),Social gatherings ,Melody,Social gatherings or parties,017,000000
+18,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,018,000000
+19,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Sadness or melancholy,019,000000
+20,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",020,000000
+21,20-35,Male,More than 2 years,Free (ad-supported),Office hours,"Classical & melody, dance",Relaxation and stress relief,021,000000
+22,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,022,000000
+23,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",023,000000
+24,20-35,Male,More than 2 years,Premium (paid subscription),Study Hours,Rock,"Relaxation and stress relief, Sadness or melancholy",024,000000
+25,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,Relaxation and stress relief,025,000000
+26,12-20,Male,6 months to 1 year,Premium (paid subscription),"Office hours, While Traveling, Workout session",Rap,Relaxation and stress relief,026,000000
+27,35-60,Male,Less than 6 months,Free (ad-supported),leisure time,Old songs,Relaxation and stress relief,027,000000
+28,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, While Traveling",Pop,Relaxation and stress relief,028,000000
+29,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",029,000000
+30,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,030,000000
+31,20-35,Male,1 year to 2 years,Free (ad-supported),Office hours,Pop,Relaxation and stress relief,031,000000
+32,12-20,Male,More than 2 years,Free (ad-supported),Workout session,Pop,Uplifting and motivational,032,000000
+33,12-20,Male,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,033,000000
+34,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",034,000000
+35,12-20,Male,1 year to 2 years,Free (ad-supported),Workout session,Rap,Uplifting and motivational,035,000000
+36,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Pop,Uplifting and motivational,036,000000
+37,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",037,000000
+38,12-20,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,038,000000
+39,12-20,Female,More than 2 years,Free (ad-supported),"Study Hours, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",039,000000
+40,12-20,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,040,000000
+41,12-20,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session",Pop,Relaxation and stress relief,041,000000
+42,12-20,Female,More than 2 years,Free (ad-supported),"Study Hours, Workout session, leisure time",Pop,Uplifting and motivational,042,000000
+43,12-20,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",043,000000
+44,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, While Traveling, ",Melody,"Relaxation and stress relief, Sadness or melancholy",044,000000
+45,20-35,Male,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,045,000000
+46,12-20,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session",classical,Sadness or melancholy,046,000000
+47,35-60,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Sadness or melancholy,047,000000
+48,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,048,000000
+49,20-35,Male,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Electronic/Dance,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",049,000000
+50,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,050,000000
+51,12-20,Female,1 year to 2 years,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,051,000000
+52,20-35,Male,Less than 6 months,Free (ad-supported),Office hours,Rap,"Relaxation and stress relief, Sadness or melancholy",052,000000
+53,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",053,000000
+54,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Pop,"Relaxation and stress relief, Social gatherings or parties",054,000000
+55,12-20,Female,More than 2 years,Free (ad-supported),"Workout session, leisure time",All,"Relaxation and stress relief, Uplifting and motivational",055,000000
+56,20-35,Male,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",classical,Relaxation and stress relief,056,000000
+57,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,057,000000
+58,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session",Pop,Relaxation and stress relief,058,000000
+59,20-35,Male,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",059,000000
+60,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",060,000000
+61,20-35,Male,Less than 6 months,Free (ad-supported),leisure time,Pop,Uplifting and motivational,061,000000
+62,20-35,Male,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",062,000000
+63,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,063,000000
+64,12-20,Male,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Rap,Relaxation and stress relief,064,000000
+65,20-35,Male,6 months to 1 year,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Sadness or melancholy",065,000000
+66,20-35,Male,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",066,000000
+67,20-35,Male,More than 2 years,Premium (paid subscription),Office hours,Melody,"Relaxation and stress relief, Uplifting and motivational",067,000000
+68,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",068,000000
+69,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,069,000000
+70,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",Melody,Relaxation and stress relief,070,000000
+71,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Electronic/Dance,Uplifting and motivational,071,000000
+72,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Sadness or melancholy",072,000000
+73,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,Social gatherings or parties,073,000000
+74,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Melody,Uplifting and motivational,074,000000
+75,20-35,Others,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Rap,"Uplifting and motivational, Sadness or melancholy",075,000000
+76,20-35,Female,More than 2 years,Free (ad-supported),Study Hours,Rap,Sadness or melancholy,076,000000
+77,35-60,Male,1 year to 2 years,Free (ad-supported),Workout session,Pop,Social gatherings or parties,077,000000
+78,12-20,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Sadness or melancholy,078,000000
+79,12-20,Female,1 year to 2 years,Free (ad-supported),Study Hours,classical,Uplifting and motivational,079,000000
+80,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,080,000000
+81,12-20,Female,Less than 6 months,Free (ad-supported),Study Hours,Rap,Relaxation and stress relief,081,000000
+82,35-60,Male,Less than 6 months,Free (ad-supported),leisure time,classical,Relaxation and stress relief,082,000000
+83,12-20,Others,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Uplifting and motivational,083,000000
+84,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,084,000000
+85,20-35,Male,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Sadness or melancholy,085,000000
+86,12-20,Male,6 months to 1 year,Free (ad-supported),Study Hours,Rap,Uplifting and motivational,086,000000
+87,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,087,000000
+88,20-35,Female,Less than 6 months,Free (ad-supported),Office hours,Electronic/Dance,Relaxation and stress relief,088,000000
+89,35-60,Others,More than 2 years,Free (ad-supported),While Traveling,classical,Uplifting and motivational,089,000000
+90,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time, Night time, when cooking",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",090,000000
+91,20-35,Female,Less than 6 months,Premium (paid subscription),Office hours,classical,Relaxation and stress relief,091,000000
+92,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,092,000000
+93,12-20,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",093,000000
+94,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",094,000000
+95,20-35,Male,More than 2 years,Free (ad-supported),Office hours,Rap,"Relaxation and stress relief, Uplifting and motivational",095,000000
+96,20-35,Male,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,096,000000
+97,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",097,000000
+98,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",098,000000
+99,20-35,Female,More than 2 years,Premium (paid subscription),leisure time,Pop,"Relaxation and stress relief, Social gatherings or parties",099,000000
+100,20-35,Male,More than 2 years,Premium (paid subscription),"Office hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",100,000000
+101,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,101,000000
+102,20-35,Female,Less than 6 months,Free (ad-supported),Office hours,Pop,Relaxation and stress relief,102,000000
+103,20-35,Male,Less than 6 months,Free (ad-supported),leisure time,classical,Relaxation and stress relief,103,000000
+104,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",104,000000
+105,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Sadness or melancholy,105,000000
+106,20-35,Male,More than 2 years,Free (ad-supported),"Office hours, While Traveling",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",106,000000
+107,20-35,Female,More than 2 years,Free (ad-supported),"Study Hours, While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",107,000000
+108,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,108,000000
+109,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, leisure time",Pop,Relaxation and stress relief,109,000000
+110,20-35,Male,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,110,000000
+111,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,"Relaxation and stress relief, Uplifting and motivational",111,000000
+112,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,112,000000
+113,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",Kpop,Relaxation and stress relief,113,000000
+114,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",114,000000
+115,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",115,000000
+116,20-35,Male,More than 2 years,Premium (paid subscription),leisure time,classical,Relaxation and stress relief,116,000000
+117,20-35,Male,More than 2 years,Premium (paid subscription),"Office hours, Study Hours, While Traveling, Workout session, leisure time",All,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",117,000000
+118,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,118,000000
+119,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational",119,000000
+120,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",120,000000
+121,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",121,000000
+122,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Pop,Uplifting and motivational,122,000000
+123,20-35,Female,More than 2 years,Free (ad-supported),"Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",123,000000
+124,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",124,000000
+125,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,125,000000
+126,12-20,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,126,000000
+127,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,"Relaxation and stress relief, Sadness or melancholy",127,000000
+128,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,128,000000
+129,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",129,000000
+130,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Electronic/Dance,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",130,000000
+131,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",131,000000
+132,20-35,Male,1 year to 2 years,Free (ad-supported),leisure time,Rap,"Relaxation and stress relief, Uplifting and motivational",132,000000
+133,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,133,000000
+134,20-35,Male,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",134,000000
+135,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, Workout session",Rap,"Relaxation and stress relief, Uplifting and motivational",135,000000
+136,35-60,Male,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Uplifting and motivational,136,000000
+137,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,137,000000
+138,20-35,Male,More than 2 years,Free (ad-supported),leisure time,Rock,Relaxation and stress relief,138,000000
+139,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Pop,Relaxation and stress relief,139,000000
+140,20-35,Male,1 year to 2 years,Premium (paid subscription),While Traveling,Melody,Relaxation and stress relief,140,000000
+141,35-60,Female,Less than 6 months,Free (ad-supported),leisure time,classical,Relaxation and stress relief,141,000000
+142,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,142,000000
+143,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",143,000000
+144,20-35,Female,Less than 6 months,Free (ad-supported),"Workout session, leisure time",Pop,Relaxation and stress relief,144,000000
+145,20-35,Male,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,145,000000
+146,12-20,Male,More than 2 years,Premium (paid subscription),"While Traveling, leisure time",Melody,Relaxation and stress relief,146,000000
+147,20-35,Male,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,Relaxation and stress relief,147,000000
+148,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Electronic/Dance,Relaxation and stress relief,148,000000
+149,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,Relaxation and stress relief,149,000000
+150,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",150,000000
+151,20-35,Female,1 year to 2 years,Free (ad-supported),Workout session,Melody,Uplifting and motivational,151,000000
+152,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,152,000000
+153,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational",153,000000
+154,20-35,Male,More than 2 years,Premium (paid subscription),Study Hours,Pop,Uplifting and motivational,154,000000
+155,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,155,000000
+156,20-35,Male,More than 2 years,Premium (paid subscription),leisure time,Electronic/Dance,Relaxation and stress relief,156,000000
+157,20-35,Male,Less than 6 months,Free (ad-supported),While Traveling,classical,Relaxation and stress relief,157,000000
+158,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,158,000000
+159,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session",Melody,Relaxation and stress relief,159,000000
+160,20-35,Male,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling",Melody,"Relaxation and stress relief, Uplifting and motivational",160,000000
+161,20-35,Male,More than 2 years,Premium (paid subscription),"While Traveling, leisure time",Melody,Relaxation and stress relief,161,000000
+162,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, Workout session",Pop,Uplifting and motivational,162,000000
+163,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,163,000000
+164,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",164,000000
+165,12-20,Female,1 year to 2 years,Free (ad-supported),While Traveling,classical,Sadness or melancholy,165,000000
+166,20-35,Female,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session",Rap,"Sadness or melancholy, Social gatherings or parties",166,000000
+167,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,classical,Uplifting and motivational,167,000000
+168,12-20,Female,1 year to 2 years,Free (ad-supported),While Traveling,Rap,Uplifting and motivational,168,000000
+169,12-20,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",classical,Sadness or melancholy,169,000000
+170,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,classical,Uplifting and motivational,170,000000
+171,20-35,Female,1 year to 2 years,Free (ad-supported),Workout session,classical,Uplifting and motivational,171,000000
+172,12-20,Female,1 year to 2 years,Premium (paid subscription),"Study Hours, While Traveling",classical,Sadness or melancholy,172,000000
+173,6-12,Female,6 months to 1 year,Premium (paid subscription),"Study Hours, While Traveling",classical,Uplifting and motivational,173,000000
+174,20-35,Female,More than 2 years,Free (ad-supported),Workout session,classical,Uplifting and motivational,174,000000
+175,35-60,Male,6 months to 1 year,Free (ad-supported),Workout session,Melody,Sadness or melancholy,175,000000
+176,12-20,Male,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session",Rap,Relaxation and stress relief,176,000000
+177,12-20,Female,1 year to 2 years,Premium (paid subscription),"While Traveling, leisure time",classical,Uplifting and motivational,177,000000
+178,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, Workout session",classical,"Uplifting and motivational, Sadness or melancholy",178,000000
+179,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,Relaxation and stress relief,179,000000
+180,35-60,Female,1 year to 2 years,Free (ad-supported),"Study Hours, Workout session",classical,Uplifting and motivational,180,000000
+181,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,Uplifting and motivational,181,000000
+182,12-20,Female,6 months to 1 year,Free (ad-supported),Workout session,classical,"Uplifting and motivational, Sadness or melancholy",182,000000
+183,35-60,Others,More than 2 years,Premium (paid subscription),"Study Hours, Workout session",Electronic/Dance,Uplifting and motivational,183,000000
+184,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Uplifting and motivational,184,000000
+185,20-35,Others,6 months to 1 year,Free (ad-supported),While Traveling,classical,Social gatherings or parties,185,000000
+186,35-60,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Melody,Social gatherings or parties,186,000000
+187,12-20,Male,6 months to 1 year,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,187,000000
+188,35-60,Male,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Uplifting and motivational,188,000000
+189,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,189,000000
+190,20-35,Male,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",trending songs random,Relaxation and stress relief,190,000000
+191,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,191,000000
+192,35-60,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,192,000000
+193,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",193,000000
+194,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,194,000000
+195,35-60,Female,More than 2 years,Premium (paid subscription),leisure time,Melody,Relaxation and stress relief,195,000000
+196,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Electronic/Dance,Relaxation and stress relief,196,000000
+197,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,197,000000
+198,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Pop,Uplifting and motivational,198,000000
+199,20-35,Male,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,199,000000
+200,20-35,Male,Less than 6 months,Free (ad-supported),"Office hours, While Traveling",Melody,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",200,000000
+201,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",201,000000
+202,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",202,000000
+203,20-35,Female,Less than 6 months,Premium (paid subscription),While Traveling,Melody,"Relaxation and stress relief, Sadness or melancholy",203,000000
+204,20-35,Male,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling, leisure time",classical,Relaxation and stress relief,204,000000
+205,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",205,000000
+206,20-35,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",206,000000
+207,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,207,000000
+208,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",208,000000
+209,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,209,000000
+210,20-35,Male,More than 2 years,Free (ad-supported),"Study Hours, While Traveling, Workout session, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",210,000000
+211,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,classical,"Relaxation and stress relief, Uplifting and motivational",211,000000
+212,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,212,000000
+213,20-35,Female,Less than 6 months,Free (ad-supported),"Study Hours, While Traveling",Melody,Relaxation and stress relief,213,000000
+214,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",214,000000
+215,20-35,Male,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",classical,Relaxation and stress relief,215,000000
+216,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,216,000000
+217,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,217,000000
+218,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,218,000000
+219,20-35,Male,More than 2 years,Premium (paid subscription),While Traveling,Pop,Relaxation and stress relief,219,000000
+220,20-35,Male,1 year to 2 years,Free (ad-supported),leisure time,Rock,Relaxation and stress relief,220,000000
+221,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",221,000000
+222,20-35,Female,Less than 6 months,Free (ad-supported),Workout session,Melody,Relaxation and stress relief,222,000000
+223,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,223,000000
+224,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,224,000000
+225,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",225,000000
+226,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,226,000000
+227,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Rap,"Relaxation and stress relief, Uplifting and motivational",227,000000
+228,20-35,Male,More than 2 years,Free (ad-supported),"Office hours, Workout session",Melody,Relaxation and stress relief,228,000000
+229,20-35,Male,1 year to 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,229,000000
+230,20-35,Male,1 year to 2 years,Free (ad-supported),Workout session,Melody,Relaxation and stress relief,230,000000
+231,20-35,Male,More than 2 years,Free (ad-supported),While Traveling,Melody,"Relaxation and stress relief, Sadness or melancholy",231,000000
+232,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Pop,"Relaxation and stress relief, Sadness or melancholy",232,000000
+233,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling, leisure time",Melody,Relaxation and stress relief,233,000000
+234,20-35,Female,Less than 6 months,Premium (paid subscription),While Traveling,Melody,Relaxation and stress relief,234,000000
+235,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session",classical,Uplifting and motivational,235,000000
+236,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",236,000000
+237,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Sadness or melancholy,237,000000
+238,20-35,Female,More than 2 years,Free (ad-supported),leisure time,All,Uplifting and motivational,238,000000
+239,20-35,Female,6 months to 1 year,Free (ad-supported),Workout session,Melody,Relaxation and stress relief,239,000000
+240,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational",240,000000
+241,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,241,000000
+242,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,242,000000
+243,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy",243,000000
+244,12-20,Male,6 months to 1 year,Free (ad-supported),leisure time,classical,Social gatherings or parties,244,000000
+245,12-20,Male,6 months to 1 year,Free (ad-supported),leisure time,classical,Social gatherings or parties,245,000000
+246,20-35,Female,More than 2 years,Premium (paid subscription),While Traveling,Melody,Relaxation and stress relief,246,000000
+247,20-35,Female,More than 2 years,Free (ad-supported),Study Hours,Melody,Relaxation and stress relief,247,000000
+248,20-35,Male,6 months to 1 year,Free (ad-supported),"Office hours, Workout session",Pop,Relaxation and stress relief,248,000000
+249,20-35,Male,1 year to 2 years,Premium (paid subscription),"Office hours, Study Hours, While Traveling",Melody,Relaxation and stress relief,249,000000
+250,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,250,000000
+251,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",251,000000
+252,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",252,000000
+253,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",253,000000
+254,20-35,Male,More than 2 years,Free (ad-supported),Random ,All,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",254,000000
+255,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",Pop,"Uplifting and motivational, Sadness or melancholy",255,000000
+256,20-35,Female,1 year to 2 years,Free (ad-supported),Workout session,Melody,Relaxation and stress relief,256,000000
+257,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",257,000000
+258,20-35,Male,6 months to 1 year,Free (ad-supported),Office hours,Rap,Relaxation and stress relief,258,000000
+259,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,259,000000
+260,12-20,Male,More than 2 years,Premium (paid subscription),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",260,000000
+261,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",261,000000
+262,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Electronic/Dance,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",262,000000
+263,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,263,000000
+264,20-35,Female,More than 2 years,Free (ad-supported),"Study Hours, Workout session, leisure time",Kpop,Uplifting and motivational,264,000000
+265,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling",Melody,Relaxation and stress relief,265,000000
+266,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",266,000000
+267,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,267,000000
+268,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,268,000000
+269,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Pop,Social gatherings or parties,269,000000
+270,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,270,000000
+271,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",271,000000
+272,20-35,Female,6 months to 1 year,Free (ad-supported),Workout session,classical,Uplifting and motivational,272,000000
+273,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,classical,Sadness or melancholy,273,000000
+274,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,Sadness or melancholy,274,000000
+275,12-20,Female,1 year to 2 years,Free (ad-supported),Study Hours,Rap,Sadness or melancholy,275,000000
+276,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,Sadness or melancholy,276,000000
+277,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Uplifting and motivational,277,000000
+278,12-20,Female,6 months to 1 year,Premium (paid subscription),Study Hours,classical,Uplifting and motivational,278,000000
+279,12-20,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,279,000000
+280,12-20,Female,6 months to 1 year,Free (ad-supported),Workout session,Rap,Sadness or melancholy,280,000000
+281,20-35,Female,1 year to 2 years,Free (ad-supported),Workout session,classical,Sadness or melancholy,281,000000
+282,20-35,Female,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling, leisure time",classical,Sadness or melancholy,282,000000
+283,20-35,Female,6 months to 1 year,Premium (paid subscription),"While Traveling, Workout session, leisure time",Rap,Uplifting and motivational,283,000000
+284,20-35,Female,1 year to 2 years,Premium (paid subscription),"Study Hours, While Traveling, Workout session",Pop,"Uplifting and motivational, Sadness or melancholy",284,000000
+285,20-35,Others,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling, Workout session",classical,Uplifting and motivational,285,000000
+286,20-35,Female,6 months to 1 year,Premium (paid subscription),"Office hours, Study Hours, While Traveling",classical,"Uplifting and motivational, Sadness or melancholy",286,000000
+287,20-35,Female,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling, Workout session",Melody,"Relaxation and stress relief, Sadness or melancholy",287,000000
+288,20-35,Female,1 year to 2 years,Premium (paid subscription),"Study Hours, While Traveling, Workout session",classical,"Uplifting and motivational, Sadness or melancholy",288,000000
+289,20-35,Female,6 months to 1 year,Premium (paid subscription),"Office hours, Study Hours, Workout session",classical,"Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",289,000000
+290,12-20,Female,6 months to 1 year,Premium (paid subscription),"Office hours, Study Hours, While Traveling",Rap,"Relaxation and stress relief, Sadness or melancholy",290,000000
+291,12-20,Female,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling",classical,Social gatherings or parties,291,000000
+292,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,Sadness or melancholy,292,000000
+293,35-60,Female,1 year to 2 years,Free (ad-supported),While Traveling,classical,Uplifting and motivational,293,000000
+294,35-60,Female,Less than 6 months,Premium (paid subscription),"Study Hours, While Traveling, Workout session",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",294,000000
+295,35-60,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Uplifting and motivational,295,000000
+296,20-35,Female,1 year to 2 years,Premium (paid subscription),Workout session,classical,Sadness or melancholy,296,000000
+297,12-20,Female,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",297,000000
+298,20-35,Female,6 months to 1 year,Premium (paid subscription),Workout session,classical,Sadness or melancholy,298,000000
+299,12-20,Female,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session",Rap,"Relaxation and stress relief, Sadness or melancholy",299,000000
+300,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,300,000000
+301,35-60,Female,1 year to 2 years,Premium (paid subscription),While Traveling,Rap,Uplifting and motivational,301,000000
+302,20-35,Female,6 months to 1 year,Free (ad-supported),Study Hours,Rap,"Uplifting and motivational, Sadness or melancholy",302,000000
+303,20-35,Male,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",303,000000
+304,20-35,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Rap,Uplifting and motivational,304,000000
+305,20-35,Female,1 year to 2 years,Premium (paid subscription),While Traveling,classical,Sadness or melancholy,305,000000
+306,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, Study Hours, While Traveling",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",306,000000
+307,20-35,Female,1 year to 2 years,Premium (paid subscription),Office hours,classical,"Relaxation and stress relief, Uplifting and motivational",307,000000
+308,20-35,Female,1 year to 2 years,Premium (paid subscription),Workout session,Rap,Uplifting and motivational,308,000000
+309,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",classical,Sadness or melancholy,309,000000
+310,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling, Workout session",Rap,Uplifting and motivational,310,000000
+311,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational",311,000000
+312,12-20,Female,6 months to 1 year,Premium (paid subscription),Workout session,classical,"Uplifting and motivational, Sadness or melancholy",312,000000
+313,20-35,Female,6 months to 1 year,Premium (paid subscription),"Office hours, Study Hours, While Traveling",Melody,"Uplifting and motivational, Social gatherings or parties",313,000000
+314,20-35,Others,1 year to 2 years,Premium (paid subscription),While Traveling,classical,Uplifting and motivational,314,000000
+315,12-20,Female,6 months to 1 year,Free (ad-supported),While Traveling,classical,"Uplifting and motivational, Sadness or melancholy",315,000000
+316,20-35,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Melody,Sadness or melancholy,316,000000
+317,20-35,Female,1 year to 2 years,Premium (paid subscription),Workout session,Melody,Sadness or melancholy,317,000000
+318,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Rap,Sadness or melancholy,318,000000
+319,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,classical,Sadness or melancholy,319,000000
+320,12-20,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",classical,Sadness or melancholy,320,000000
+321,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Pop,"Relaxation and stress relief, Social gatherings or parties",321,000000
+322,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,322,000000
+323,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",323,000000
+324,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",324,000000
+325,20-35,Female,Less than 6 months,Free (ad-supported),"Study Hours, While Traveling, leisure time",classical,"Relaxation and stress relief, Uplifting and motivational",325,000000
+326,20-35,Female,More than 2 years,Free (ad-supported),leisure time,classical,Sadness or melancholy,326,000000
+327,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,327,000000
+328,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, Study Hours, While Traveling",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",328,000000
+329,20-35,Male,More than 2 years,Free (ad-supported),"While Traveling, Before bed ",Pop,Relaxation and stress relief,329,000000
+330,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,330,000000
+331,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Pop,Uplifting and motivational,331,000000
+332,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",332,000000
+333,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, While Traveling, Workout session",Melody,"Relaxation and stress relief, Sadness or melancholy",333,000000
+334,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",334,000000
+335,20-35,Female,More than 2 years,Free (ad-supported),Office hours,Melody,Relaxation and stress relief,335,000000
+336,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,336,000000
+337,20-35,Male,More than 2 years,Free (ad-supported),leisure time,Rap,Uplifting and motivational,337,000000
+338,20-35,Female,More than 2 years,Free (ad-supported),Workout session,classical,Relaxation and stress relief,338,000000
+339,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,339,000000
+340,12-20,Male,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling",Melody,"Relaxation and stress relief, Sadness or melancholy",340,000000
+341,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session",Electronic/Dance,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",341,000000
+342,20-35,Female,Less than 6 months,Premium (paid subscription),"Office hours, While Traveling",Melody,Relaxation and stress relief,342,000000
+343,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",343,000000
+344,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",344,000000
+345,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,345,000000
+346,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,346,000000
+347,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling",Melody,Relaxation and stress relief,347,000000
+348,20-35,Female,1 year to 2 years,Premium (paid subscription),"Study Hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",348,000000
+349,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,349,000000
+350,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,350,000000
+351,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,351,000000
+352,20-35,Female,More than 2 years,Premium (paid subscription),"Study Hours, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",352,000000
+353,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",classical,Relaxation and stress relief,353,000000
+354,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Social gatherings or parties,354,000000
+355,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,355,000000
+356,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,356,000000
+357,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",357,000000
+358,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",358,000000
+359,20-35,Female,Less than 6 months,Free (ad-supported),"Study Hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",359,000000
+360,20-35,Male,Less than 6 months,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Electronic/Dance,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",360,000000
+361,20-35,Female,1 year to 2 years,Premium (paid subscription),leisure time,Melody,Sadness or melancholy,361,000000
+362,20-35,Male,More than 2 years,Free (ad-supported),While Traveling,classical,Relaxation and stress relief,362,000000
+363,60+,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,Relaxation and stress relief,363,000000
+364,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",364,000000
+365,20-35,Male,More than 2 years,Free (ad-supported),"Office hours, While Traveling",Pop,"Relaxation and stress relief, Social gatherings or parties",365,000000
+366,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,366,000000
+367,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",367,000000
+368,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,368,000000
+369,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Kpop,"Relaxation and stress relief, Sadness or melancholy",369,000000
+370,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",All,"Relaxation and stress relief, Uplifting and motivational",370,000000
+371,12-20,Male,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,371,000000
+372,20-35,Male,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",372,000000
+373,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, Study Hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Social gatherings or parties",373,000000
+374,20-35,Female,Less than 6 months,Free (ad-supported),"Study Hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",374,000000
+375,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",375,000000
+376,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational",376,000000
+377,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Uplifting and motivational,377,000000
+378,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational",378,000000
+379,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",379,000000
+380,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,380,000000
+381,20-35,Male,More than 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,381,000000
+382,20-35,Female,More than 2 years,Premium (paid subscription),"Office hours, Study Hours, While Traveling, Workout session, leisure time, ",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",382,000000
+383,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Melody,"Relaxation and stress relief, Uplifting and motivational",383,000000
+384,12-20,Female,Less than 6 months,Free (ad-supported),"Study Hours, While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",384,000000
+385,20-35,Female,More than 2 years,Free (ad-supported),Office hours,Melody,Relaxation and stress relief,385,000000
+386,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Rap,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",386,000000
+387,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,387,000000
+388,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,388,000000
+389,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Uplifting and motivational,389,000000
+390,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Uplifting and motivational,390,000000
+391,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Pop,Relaxation and stress relief,391,000000
+392,20-35,Female,1 year to 2 years,Free (ad-supported),Workout session,Electronic/Dance,Social gatherings or parties,392,000000
+393,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, Study Hours, While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",393,000000
+394,20-35,Female,More than 2 years,Premium (paid subscription),"Office hours, While Traveling, leisure time",Melody,Relaxation and stress relief,394,000000
+395,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",395,000000
+396,12-20,Female,More than 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational",396,000000
+397,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,397,000000
+398,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, While Traveling",Melody,Sadness or melancholy,398,000000
+399,20-35,Male,More than 2 years,Free (ad-supported),leisure time,All,"Uplifting and motivational, Social gatherings or parties",399,000000
+400,20-35,Female,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",400,000000
+401,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Sadness or melancholy",401,000000
+402,20-35,Male,1 year to 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,402,000000
+403,20-35,Female,1 year to 2 years,Free (ad-supported),"While Traveling, Workout session",Melody,"Relaxation and stress relief, Uplifting and motivational",403,000000
+404,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,404,000000
+405,20-35,Male,Less than 6 months,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",405,000000
+406,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,classical,Uplifting and motivational,406,000000
+407,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, leisure time",Melody,Relaxation and stress relief,407,000000
+408,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Electronic/Dance,Relaxation and stress relief,408,000000
+409,20-35,Male,More than 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",409,000000
+410,12-20,Female,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,Sadness or melancholy,410,000000
+411,12-20,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Relaxation and stress relief,411,000000
+412,20-35,Female,More than 2 years,Premium (paid subscription),leisure time,Rap,Social gatherings or parties,412,000000
+413,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,413,000000
+414,20-35,Female,6 months to 1 year,Free (ad-supported),Workout session,Melody,Uplifting and motivational,414,000000
+415,35-60,Male,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,415,000000
+416,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session",Melody,"Relaxation and stress relief, Sadness or melancholy",416,000000
+417,20-35,Female,Less than 6 months,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,417,000000
+418,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Electronic/Dance,Relaxation and stress relief,418,000000
+419,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,419,000000
+420,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Sadness or melancholy,420,000000
+421,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,421,000000
+422,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,Relaxation and stress relief,422,000000
+423,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,423,000000
+424,20-35,Male,More than 2 years,Premium (paid subscription),"While Traveling, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",424,000000
+425,20-35,Female,More than 2 years,Free (ad-supported),"Workout session, leisure time",Pop,Relaxation and stress relief,425,000000
+426,20-35,Female,More than 2 years,Free (ad-supported),"Workout session, leisure time",Pop,Sadness or melancholy,426,000000
+427,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,427,000000
+428,12-20,Female,1 year to 2 years,Free (ad-supported),"Study Hours, Workout session, leisure time",Melody,Relaxation and stress relief,428,000000
+429,20-35,Male,1 year to 2 years,Premium (paid subscription),"While Traveling, leisure time",Melody,Relaxation and stress relief,429,000000
+430,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Sadness or melancholy,430,000000
+431,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",431,000000
+432,20-35,Female,More than 2 years,Free (ad-supported),Study Hours,Melody,Relaxation and stress relief,432,000000
+433,20-35,Female,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",433,000000
+434,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Pop,"Relaxation and stress relief, Social gatherings or parties",434,000000
+435,20-35,Female,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",Melody,Relaxation and stress relief,435,000000
+436,20-35,Female,Less than 6 months,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,436,000000
+437,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,437,000000
+438,20-35,Male,1 year to 2 years,Free (ad-supported),"While Traveling, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",438,000000
+439,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,439,000000
+440,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, ",Melody,"Relaxation and stress relief, Social gatherings or parties",440,000000
+441,20-35,Male,Less than 6 months,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Social gatherings or parties",441,000000
+442,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",442,000000
+443,20-35,Female,More than 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",443,000000
+444,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy, Social gatherings or parties",444,000000
+445,20-35,Female,More than 2 years,Free (ad-supported),"Office hours, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy",445,000000
+446,20-35,Female,6 months to 1 year,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Social gatherings or parties",446,000000
+447,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,447,000000
+448,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, leisure time",Melody,Relaxation and stress relief,448,000000
+449,20-35,Male,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Rock,"Relaxation and stress relief, Uplifting and motivational",449,000000
+450,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy",450,000000
+451,20-35,Female,Less than 6 months,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,451,000000
+452,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Electronic/Dance,"Relaxation and stress relief, Uplifting and motivational",452,000000
+453,20-35,Female,6 months to 1 year,Free (ad-supported),"Office hours, While Traveling, leisure time",Melody,Relaxation and stress relief,453,000000
+454,20-35,Female,More than 2 years,Free (ad-supported),leisure time,"Classical & melody, dance",Relaxation and stress relief,454,000000
+455,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",455,000000
+456,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,456,000000
+457,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,457,000000
+458,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Melody,"Relaxation and stress relief, Sadness or melancholy",458,000000
+459,20-35,Male,More than 2 years,Free (ad-supported),"Office hours, While Traveling",classical,Relaxation and stress relief,459,000000
+460,20-35,Male,More than 2 years,Free (ad-supported),leisure time,classical,"Relaxation and stress relief, Sadness or melancholy",460,000000
+461,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Melody,Relaxation and stress relief,461,000000
+462,20-35,Female,1 year to 2 years,Premium (paid subscription),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy",462,000000
+463,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Melody,Relaxation and stress relief,463,000000
+464,12-20,Others,1 year to 2 years,Free (ad-supported),leisure time,Rap,Sadness or melancholy,464,000000
+465,12-20,Female,1 year to 2 years,Premium (paid subscription),Study Hours,classical,Relaxation and stress relief,465,000000
+466,12-20,Female,6 months to 1 year,Premium (paid subscription),"Study Hours, While Traveling",Rap,Sadness or melancholy,466,000000
+467,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Rap,Sadness or melancholy,467,000000
+468,20-35,Female,1 year to 2 years,Free (ad-supported),While Traveling,Rap,Uplifting and motivational,468,000000
+469,20-35,Female,1 year to 2 years,Premium (paid subscription),While Traveling,Rap,Sadness or melancholy,469,000000
+470,20-35,Others,1 year to 2 years,Free (ad-supported),While Traveling,Rap,Sadness or melancholy,470,000000
+471,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,classical,Sadness or melancholy,471,000000
+472,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Uplifting and motivational,472,000000
+473,35-60,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Sadness or melancholy,473,000000
+474,35-60,Female,6 months to 1 year,Free (ad-supported),"Study Hours, Workout session",Rap,Sadness or melancholy,474,000000
+475,20-35,Others,6 months to 1 year,Premium (paid subscription),Study Hours,Rap,Uplifting and motivational,475,000000
+476,20-35,Female,1 year to 2 years,Premium (paid subscription),Workout session,Electronic/Dance,Sadness or melancholy,476,000000
+477,12-20,Female,6 months to 1 year,Premium (paid subscription),Workout session,Rap,Sadness or melancholy,477,000000
+478,35-60,Female,6 months to 1 year,Premium (paid subscription),Workout session,Melody,Uplifting and motivational,478,000000
+479,20-35,Female,Less than 6 months,Premium (paid subscription),Workout session,classical,Uplifting and motivational,479,000000
+480,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, leisure time",classical,Uplifting and motivational,480,000000
+481,20-35,Male,6 months to 1 year,Premium (paid subscription),While Traveling,classical,Uplifting and motivational,481,000000
+482,20-35,Female,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling",Rap,Sadness or melancholy,482,000000
+483,12-20,Male,6 months to 1 year,Free (ad-supported),Workout session,classical,Sadness or melancholy,483,000000
+484,20-35,Others,6 months to 1 year,Free (ad-supported),"Study Hours, While Traveling, leisure time",Rap,"Relaxation and stress relief, Sadness or melancholy",484,000000
+485,20-35,Female,1 year to 2 years,Free (ad-supported),"Study Hours, While Traveling, leisure time",classical,"Uplifting and motivational, Sadness or melancholy",485,000000
+486,12-20,Female,1 year to 2 years,Premium (paid subscription),"Office hours, Study Hours, Workout session",Rap,"Uplifting and motivational, Social gatherings or parties",486,000000
+487,12-20,Female,1 year to 2 years,Premium (paid subscription),Study Hours,Melody,Sadness or melancholy,487,000000
+488,12-20,Female,1 year to 2 years,Free (ad-supported),Workout session,Melody,Uplifting and motivational,488,000000
+489,20-35,Male,6 months to 1 year,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,489,000000
+490,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling, Workout session",classical,"Relaxation and stress relief, Sadness or melancholy",490,000000
+491,20-35,Female,1 year to 2 years,Premium (paid subscription),leisure time,Melody,Sadness or melancholy,491,000000
+492,6-12,Others,More than 2 years,Free (ad-supported),Study Hours,Rap,Social gatherings or parties,492,000000
+493,12-20,Male,More than 2 years,Free (ad-supported),While Traveling,classical,"Uplifting and motivational, Social gatherings or parties",493,000000
+494,6-12,Others,1 year to 2 years,Premium (paid subscription),Workout session,classical,Uplifting and motivational,494,000000
+495,20-35,Female,1 year to 2 years,Free (ad-supported),leisure time,Rap,Sadness or melancholy,495,000000
+496,20-35,Male,6 months to 1 year,Free (ad-supported),Study Hours,classical,Uplifting and motivational,496,000000
+497,20-35,Male,1 year to 2 years,Premium (paid subscription),While Traveling,Rap,Sadness or melancholy,497,000000
+498,20-35,Female,6 months to 1 year,Free (ad-supported),"Study Hours, Workout session",classical,Sadness or melancholy,498,000000
+499,20-35,Female,6 months to 1 year,Free (ad-supported),While Traveling,Rap,Social gatherings or parties,499,000000
+500,20-35,Female,6 months to 1 year,Premium (paid subscription),"Office hours, While Traveling",Rap,Uplifting and motivational,500,000000
+501,12-20,Male,6 months to 1 year,Free (ad-supported),"While Traveling, leisure time",classical,Relaxation and stress relief,501,000000
+502,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Pop,Sadness or melancholy,502,000000
+503,12-20,Others,1 year to 2 years,Free (ad-supported),Study Hours,classical,Uplifting and motivational,503,000000
+504,12-20,Male,More than 2 years,Premium (paid subscription),Study Hours,classical,Relaxation and stress relief,504,000000
+505,20-35,Female,1 year to 2 years,Free (ad-supported),"Office hours, While Traveling",classical,Uplifting and motivational,505,000000
+506,20-35,Male,Less than 6 months,Premium (paid subscription),Workout session,classical,Uplifting and motivational,506,000000
+507,20-35,Female,Less than 6 months,Free (ad-supported),"Office hours, Study Hours, While Traveling",classical,Uplifting and motivational,507,000000
+508,12-20,Female,6 months to 1 year,Premium (paid subscription),While Traveling,Rap,Relaxation and stress relief,508,000000
+509,20-35,Female,More than 2 years,Free (ad-supported),"Study Hours, leisure time",Melody,"Relaxation and stress relief, Sadness or melancholy",509,000000
+510,20-35,Male,More than 2 years,Premium (paid subscription),Study Hours,Melody,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",510,000000
+511,20-35,Female,More than 2 years,Free (ad-supported),Office hours,Melody,Relaxation and stress relief,511,000000
+512,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session",Melody,"Relaxation and stress relief, Sadness or melancholy",512,000000
+513,20-35,Female,More than 2 years,Free (ad-supported),"Study Hours, While Traveling, leisure time",Kpop,"Relaxation and stress relief, Uplifting and motivational",513,000000
+514,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Melody,Relaxation and stress relief,514,000000
+515,20-35,Female,More than 2 years,Free (ad-supported),While Traveling,Pop,"Uplifting and motivational, Sadness or melancholy",515,000000
+516,20-35,Female,More than 2 years,Free (ad-supported),"While Traveling, Workout session, leisure time",Pop,"Relaxation and stress relief, Uplifting and motivational, Sadness or melancholy, Social gatherings or parties",516,000000
+517,20-35,Female,More than 2 years,Free (ad-supported),leisure time,Pop,Relaxation and stress relief,517,000000
+518,20-35,Female,6 months to 1 year,Premium (paid subscription),"Workout session, leisure time",Melody,"Relaxation and stress relief, Uplifting and motivational",518,000000
+519,20-35,Female,More than 2 years,Premium (paid subscription),"Office hours,Study Hours, While Traveling, leisure time",Pop,"Relaxation and stress relief, Sadness or melancholy",519,000000
