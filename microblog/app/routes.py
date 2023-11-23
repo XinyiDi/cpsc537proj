@@ -10,25 +10,18 @@ from werkzeug.urls import url_parse
 #from db_setup import init_db, db_session
 from app.models import User, Artist, Song
 from tables import Results
+from sqlalchemy import func
 
 
 
 
 @app.route('/')
-@app.route('/index')
+@app.route('/index', methods=['GET','POST'])
 @login_required
 def index():
-    posts = [
-        {
-            'author': {'username': 'John'},
-            'body': 'Beautiful day in Portland!'
-        },
-        {
-            'author': {'username': 'Susan'},
-            'body': 'The Avengers movie was so cool!'
-        }
-    ]
+
     songs = Song.query.all()
+    global search #
     search = MusicSearchForm(request.form)
     if request.method == 'POST':
         return search_results(search)
@@ -36,27 +29,33 @@ def index():
     return render_template('index.html', form=search,  songs = songs)
     #return render_template("index.html", title='Home Page', posts=posts)
 
-@app.route('/results')
-def search_results(search):
-    results = []
+@app.route('/results', methods=['GET','POST'])
+def search_results():
+    search = MusicSearchForm(request.form)
+
     search_string = search.data['search']
  
     if search_string:
+        search_string = search_string.lower()
         if search.data['select'] == 'Artist':
-            qry = Artist.query().filter_by(name = search_string)
+            qry = Artist.query.filter_by(name = search_string)#(func.lower(Artist.name).contains(search_string) )
             results = qry.all()
+            if not results:
+                flash('No results found!')
+                return redirect(url_for('index'))
+            return render_template('results_artist.html', songs = results)
         else:
-            qry = Song.query().filter_by(name = search_string)
+            qry = Song.query.filter(func.lower(Song.name).contains(search_string))
             results = qry.all()
- 
-    if not results:
+            if not results:
+                flash('No results found!')
+                return redirect(url_for('index'))
+            return render_template('results_song.html', songs = results)
+    elif not search_string:
         flash('No results found!')
-        return redirect('/')
+        return redirect(url_for('index'))
     else:
-        # display results
-        table = Results(results)
-        table.border = True
-        return render_template('results.html', table=table)
+        return redirect(url_for('index'))
 
 @app.route('/login', methods=['GET', 'POST'])
 def login():

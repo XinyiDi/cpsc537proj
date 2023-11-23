@@ -7,15 +7,17 @@
     <div><p> <b>{{ song.name}}</b> by <b>{{ song.artists }}</b></p></div>
     {% endfor %}
 
-    {% from "_formhelpers.html" import render_field %}
-    <form method=post>
-    <h1>Search</h1>
-    <dl>
-        {{ render_field(form.select) }}
-        <p>
-        {{ render_field(form.search) }}
-    </dl>
-    <p><input type=submit value=Search>
+    <form action="{{ url_for('search_results')}}" method="post">
+        <h1>Search</h1>
+        <label for="select">Search for music:</label>
+        <select id="select" name="select">
+            <option value="Song">Song</option>
+            <option value="Artist">Artist</option>
+        </select>
+        <br>
+        <label for="search">Search:</label>
+        <input type="text" id="search" name="search">
+        <br>
+        <input type="submit" value="Search">
     </form>
-
 {% endblock %}
