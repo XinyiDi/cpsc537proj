@@ -11,7 +11,7 @@ from werkzeug.urls import url_parse
 from app.models import User, Artist, Song, Match
 #from tables import Results
 from sqlalchemy import func
-
+from sqlalchemy import and_
 
 
 @app.route('/')
@@ -19,9 +19,15 @@ from sqlalchemy import func
 @login_required
 def index():
     if current_user.id:
-        match = Match.query.filter_by(user_id = current_user.id)[0]
-        song_ids = [match.song_1,match.song_2,match.song_3,match.song_4,match.song_5]
-        songs = Song.query.filter(Song.id.in_(song_ids)).all()
+        # match = Match.query.filter_by(user_id = current_user.id)[0]
+        # song_ids = [match.song_1,match.song_2,match.song_3,match.song_4,match.song_5]
+        # songs = Song.query.filter(Song.id.in_(song_ids)).all()
+       
+        # Construct the query using a join
+        songs = Song.query \
+            .join(Match, and_(Song.id.in_([Match.song_1, Match.song_2, Match.song_3, Match.song_4, Match.song_5]),
+                            Match.user_id == current_user.id)) \
+            .all()
     else:
         songs = Song.query.all()[:5]
     global search #
